@@ -1,0 +1,64 @@
+                        
+                        
+                        
+                        
+                        
+                        <li><a href="#">Rap Việt</a></li>
+                        <li><a href="#">Remix Việt</a></li>
+                        <li><a href="#">Rock Việt</a></li>
+                                    <a href="#">Tuyển Tập</a>
+                    <ul class="menu-x subcontent">
+                        <li><a href="#">Nhạc Trẻ</a></li>
+                        <li><a href="#">Trữ Tình</a></li>
+                        <li><a href="#">Pop</a></li>
+                        <li><a href="#">Rap Việt</a></li>
+                        <li><a href="#">Remix Việt</a></li>
+                        <li><a href="#">Rock Việt</a></li>
+                        <li><a href="#">Nhạc Hàn</a></li>
+                        <li><a href="#">Trữ Hoa</a></li>
+                        <li><a href="#">Soundtrack</a></li>
+                        <li><a href="#">Không Lời</a></li>
+                    </ul>
+                    
+                <li class="sub">
+                    <a href="#">BXH</a>
+                    <ul class="menu-x subcontent">
+                        <li><a href="#">Việt Nam</a></li>
+                        <li><a href="#">Âu Mỹ</a></li>
+                        <li><a href="#">Hàn Quốc</a></li>
+                    </ul>
+                </li>
+                <li class="sub">
+                    <a href="#">Chủ Đề</a>
+                    <ul class="menu-x subcontent">
+                        <li><a href="#">The Best Of 2022</a></li>
+                        <li><a href="#">Hot US-UK</a></li>
+                        <li><a href="#">Indie</a></li>
+                        <li><a href="#">Bất Hủ Âu Mỹ</a></li>
+                        <li><a href="#">Cover & Mashup</a></li>
+                        <li><a href="#">Lofi</a></li>
+                        <li><a href="#">Nhạc Thiếu Nhi</a></li>
+                        <li><a href="#">Chill Out</a></li>
+                        <li><a href="#">EDM</a></li>
+                        <li><a href="#">Nhạc Hot</a></li>
+                        <li><a href="#">Nhạc Hoa Lời Việt</a></li>
+                        <li><a href="#">Nhạc Phim</a></li>
+                    </ul>
+                </li>
+                <li class="sub">
+                    <a href="#">Top 100</a>
+                    <ul class="menu-x subcontent">
+                        <li><a href="#">Việt Nam</a></li>
+                        <li><a href="#">Châu Á</a></li>
+                        <li><a href="#">Âu Mỹ</a></li>
+                        <li><a href="#">Không Lời</a></li>
+                    </ul>
+                </li>
+                <li class="sub">
+                    <a href="#"><ion-icon name="ellipsis-horizontal"></ion-icon></a>
+                    <ul class="menu-x subcontent">
+                        <li><a href="#">Khám Phá</a></li>
+                        <li><a href="#">Nghệ Sĩ</a></li>
+                        <li><a href="#">Tin Tức Âm Nhạc</a></li>
+                    </ul>
+                </li>
